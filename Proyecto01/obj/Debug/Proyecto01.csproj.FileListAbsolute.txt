@@ -1,0 +1,10 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\bin\Debug\Proyecto01.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\bin\Debug\Proyecto01.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\bin\Debug\Proyecto01.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\obj\Debug\Proyecto01.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\obj\Debug\Proyecto01.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\obj\Debug\Proyecto01.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Proyecto01\Proyecto01\obj\Debug\Proyecto01.pdb
+C:\Users\Daniel\Source\Repos\Proyecto01Diseno\Proyecto01\bin\Debug\Proyecto01.exe.config
+C:\Users\Daniel\Source\Repos\Proyecto01Diseno\Proyecto01\obj\Debug\Proyecto01.exe
+C:\Users\Daniel\Source\Repos\Proyecto01Diseno\Proyecto01\obj\Debug\Proyecto01.pdb
